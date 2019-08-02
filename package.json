@@ -1,0 +1,16 @@
+{
+  "name": "apitests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "glob": "^7.1.4",
+    "nodemailer": "^6.2.1"
+  }
+}
